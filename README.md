@@ -79,6 +79,11 @@ The following preprocessing steps were performed:
 | Total Orders | 5.009K |
 
 ---
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="./Business_Sales_Performance_Analytics_Dashboard.png" width="1000">
+</p>
 
 ## Dashboard Features
 
