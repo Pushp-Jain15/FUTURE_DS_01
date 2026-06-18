@@ -81,9 +81,9 @@ The following preprocessing steps were performed:
 ---
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="./Business_Sales_Performance_Analytics_Dashboard.png" width="1000">
-</p>
+<img src="./Business_Sales_Performance_Analytics_Dashboard.png" width="1000">
+
+---
 
 ## Dashboard Features
 
