@@ -149,7 +149,7 @@ Business-Sales-Performance-Analytics/
 ## 📊 Dashboard Preview
 
 <p align="center">
-<img src="Business_Sales_Performance_Analytics_Dashboard.png" width="1000"/>
+<img src="Business_Sales_Performance_Analytics.png" width="1000"/>
 </p>
 ---
 
